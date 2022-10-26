@@ -1,6 +1,6 @@
 ATENÇÃO: Os documentos deste repositório estão ainda em processo de revisão.
 
-Neste repositório estão contidos materiais suplementares a minha tese de doutorado "REDES NEURAIS ATENCIONAIS APLICADAS A MODELAGEM E PREVISÃO DE PREÇOS NO MERCADO DE ELETRICIDADE BRASILEIRO". O texto foi submetido ao Programa de Pós-graduação em Engenharia Elétrica da Escola de Engenharia de São Carlos (EESC) da Universidade de São Paulo (USP). Caso você se utilize de qualquer um dos materiais aqui contidos peço a gentileza que faça referência como a seguir:
+Neste repositório estão contidos materiais suplementares à minha tese de doutorado "REDES NEURAIS ATENCIONAIS APLICADAS A MODELAGEM E PREVISÃO DE PREÇOS NO MERCADO DE ELETRICIDADE BRASILEIRO". O texto foi submetido ao Programa de Pós-graduação em Engenharia Elétrica da Escola de Engenharia de São Carlos (EESC) da Universidade de São Paulo (USP). Caso você se utilize de qualquer um dos materiais aqui contidos peço a gentileza que faça referência como a seguir:
 
 Nametala, C. A. L. Redes neurais atencionais aplicadas a modelagem e previsão de preços no mercado de eletricidade brasileiro. 2023. 286p. Tese (Doutorado) - Escola de Engenharia de São Carlos, Universidade de São Paulo, São Carlos, 2023.
 
