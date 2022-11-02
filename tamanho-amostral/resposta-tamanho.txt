@@ -1,0 +1,21 @@
+[1] "-----------------------------------------------"
+[1] "TESTE DE NORMALIDADE"
+[1] "-----------------------------------------------"
+
+	Shapiro-Wilk normality test
+
+data:  selected_models
+W = 0.96372, p-value = 0.384
+
+[1] "-----------------------------------------------"
+[1] "RESULTADO DO CALCULO DE TAMANHO AMOSTRAL"
+[1] "-----------------------------------------------"
+
+     One-sample t test power calculation 
+
+              n = 208.9031
+          delta = 0.1
+             sd = 0.6641174
+      sig.level = 0.05
+          power = 0.7
+    alternative = one.sided
